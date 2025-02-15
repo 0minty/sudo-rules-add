@@ -34,7 +34,7 @@
 
   ![image](https://github.com/user-attachments/assets/3921ec11-5ba7-4de3-8907-9354defb4730)
 
-8. Проверяем команду ```sudo```, ошибку <b>is not sudoers file</b> не должно выводить!
+7. Проверяем команду ```sudo```, ошибку <b>is not sudoers file</b> не должно выводить!
 
   ![image](https://github.com/user-attachments/assets/c3dfe4c5-6d4c-4aa5-89e8-e6d416763039)
 
