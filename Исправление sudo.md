@@ -1,8 +1,12 @@
 # -sudo-
+<center>
+Если у вас при использовании Linux появляется ошибка <b>is not sudoers file</b>, то проделайте следующие шаги, которые указаны ниже
 
-Если у вас при использовании Linux появляется ошибка <b>is not sudoers file</b>, то проделайте следующие шаги
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a1ffca4-eb0c-4bd1-bf5a-42182b1117ee" alt="image">
+</p>
 
-![image](https://github.com/user-attachments/assets/0a1ffca4-eb0c-4bd1-bf5a-42182b1117ee)
+</center>
 
 
 
@@ -27,9 +31,10 @@
    ![image](https://github.com/user-attachments/assets/145c32a4-cadf-4a65-b64d-16e4b90c82dc)
 
 6. Пишем команду ```exit``` или прожимаем комбинацию ```ctrl + D```
-  ![image](https://github.com/user-attachments/assets/3921ec11-5ba7-4de3-8907-9354defb4730)
 
-7. Проверяем команду ```sudo```, ошибку <b>is not sudoers file</b> не должно выводить!
+   ![image](https://github.com/user-attachments/assets/3921ec11-5ba7-4de3-8907-9354defb4730)
+
+8. Проверяем команду ```sudo```, ошибку <b>is not sudoers file</b> не должно выводить!
   
   ![image](https://github.com/user-attachments/assets/c3dfe4c5-6d4c-4aa5-89e8-e6d416763039)
 
