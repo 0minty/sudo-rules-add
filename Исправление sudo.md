@@ -14,7 +14,7 @@
 
    ![image](https://github.com/user-attachments/assets/1a50beba-92d0-4e25-be4a-694d6ed11bae)
 
-3. Ищем такой пунк
+3. Ищем такой пункт
 
    ![image](https://github.com/user-attachments/assets/0a737b08-4715-4231-a99b-24103c211b83)
 
